@@ -1,46 +1,46 @@
 ,State,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases
-0,New York,"4,159","+1,121",21,+1,1,"4,137"
+0,New York,"5,369","+2,331",22,+2,1,"5,346"
 1,Washington,"1,187",,68,+1,89,"1,030"
-2,California,971,+123,19,+3,6,946
-3,New Jersey,742,+315,9,+4,,733
-4,Florida,390,+62,9,+1,,381
-5,Louisiana,347,+67,8,+1,,339
-6,Michigan,336,+217,3,+2,,333
-7,Illinois,295,+7,1,,2,292
-8,Georgia,287,+90,10,+7,,277
-9,Massachusetts,256,,,,1,255
-10,Texas,229,+32,3,,,226
+2,California,972,+124,19,+3,6,947
+3,New Jersey,743,+316,9,+4,,734
+4,Illinois,422,+134,4,+3,2,416
+5,Florida,390,+62,9,+1,,381
+6,Louisiana,347,+67,8,+1,,339
+7,Michigan,336,+217,3,+2,,333
+8,Massachusetts,328,+72,,,1,327
+9,Georgia,287,+90,10,+7,,277
+10,Texas,267,+70,5,+2,,262
 11,Colorado,221,,2,,,219
-12,Pennsylvania,189,+34,1,,,188
-13,Wisconsin,155,+44,,,1,154
+12,Pennsylvania,203,+48,1,,,202
+13,Wisconsin,157,+46,,,1,156
 14,Tennessee,154,+54,,,,154
-15,North Carolina,120,+27,,,,120
+15,North Carolina,121,+28,,,,121
 16,Ohio,119,+30,,,,119
 17,Maryland,107,+22,1,+1,4,102
 18,Connecticut,97,+1,2,+1,,95
-19,Nevada,95,+40,1,,,94
-20,Virginia,94,+15,2,,1,91
+19,Virginia,96,+17,2,,1,93
+20,Nevada,95,+40,1,,,94
 21,Minnesota,91,+13,,,,91
 22,Oregon,88,+13,3,,,85
 23,Utah,79,+16,,,,79
-24,Alabama,68,+16,,,,68
-25,South Carolina,60,,3,,,57
-26,Indiana,56,+17,2,,,54
-27,Maine,52,+9,,,,52
-28,Mississippi,50,+14,,,,50
-29,Oklahoma,46,+15,1,+1,1,44
-30,Arkansas,46,+13,,,,46
+24,Alabama,69,+17,,,,69
+25,South Carolina,63,+3,3,,,60
+26,Arkansas,62,+29,,,,62
+27,Indiana,58,+19,2,,,56
+28,Maine,52,+9,,,,52
+29,Mississippi,51,+15,,,,51
+30,Oklahoma,46,+15,1,+1,1,44
 31,Arizona,44,+17,,,1,43
-32,District of Columbia,40,+9,3,+3,,37
-33,Iowa,39,+1,,,,39
-34,New Hampshire,39,,,,,39
-35,Kansas,36,+13,1,,,35
-36,Kentucky,35,,1,,2,32
-37,New Mexico,35,+7,,,,35
-38,Rhode Island,33,,,,,33
-39,Delaware,30,+4,,,,30
-40,Nebraska,29,+5,,,,29
-41,Missouri,26,+6,1,,,25
+32,Rhode Island,44,+11,,,,44
+33,District of Columbia,40,+9,3,+3,,37
+34,Iowa,39,+1,,,,39
+35,New Hampshire,39,,,,,39
+36,Kentucky,37,+2,1,,2,34
+37,Kansas,36,+13,1,,,35
+38,New Mexico,35,+7,,,,35
+39,Missouri,31,+11,1,,,30
+40,Delaware,30,+4,,,,30
+41,Nebraska,29,+5,,,,29
 42,Vermont,22,+3,,,,22
 43,Wyoming,18,+2,,,,18
 44,Hawaii,16,,,,,16
