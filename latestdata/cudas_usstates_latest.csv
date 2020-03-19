@@ -1,19 +1,19 @@
 ,State,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases
 0,New York,"5,367","+2,329",34,+14,1,"5,332"
-1,Washington,"1,376",+189,70,+3,89,"1,217"
+1,Washington,"1,376",+189,74,+7,89,"1,213"
 2,California,"1,009",+161,19,+3,6,984
 3,New Jersey,742,+315,9,+4,,733
 4,Illinois,422,+134,4,+3,2,416
-5,Florida,392,+64,9,+1,,383
-6,Louisiana,347,+67,10,+3,,337
+5,Florida,417,+89,9,+1,,408
+6,Louisiana,392,+112,10,+3,,382
 7,Michigan,336,+217,3,+2,,333
 8,Massachusetts,328,+72,,,1,327
 9,Georgia,287,+90,10,+7,,277
-10,Texas,283,+86,5,+2,,278
-11,Colorado,277,+56,3,+1,,274
+10,Texas,284,+87,5,+2,,279
+11,Colorado,278,+57,4,+2,,274
 12,Pennsylvania,207,+52,1,,,206
 13,Connecticut,159,+63,2,+1,,157
-14,Wisconsin,158,+47,,,1,157
+14,Wisconsin,159,+48,,,1,158
 15,Tennessee,154,+54,,,,154
 16,North Carolina,124,+31,,,,124
 17,Ohio,119,+30,,,,119
@@ -35,18 +35,18 @@
 33,New Hampshire,44,+5,,,,44
 34,Rhode Island,44,+11,,,,44
 35,District of Columbia,40,+9,3,+3,,37
-36,Kentucky,37,+2,1,,2,34
+36,Kentucky,37,+2,2,+1,2,33
 37,Kansas,36,+13,1,,,35
 38,New Mexico,35,+7,,,,35
 39,Missouri,31,+11,1,,,30
 40,Delaware,31,+5,,,,31
 41,Nebraska,29,+5,,,,29
-42,Hawaii,22,+6,,,,22
-43,Vermont,22,+3,,,,22
-44,North Dakota,18,+12,,,,18
-45,Wyoming,18,+2,,,,18
-46,Montana,12,+1,,,,12
-47,South Dakota,11,,1,,,10
-48,Idaho,11,+2,,,,11
+42,Idaho,23,+14,,,,23
+43,Hawaii,22,+6,,,,22
+44,Vermont,22,+3,,,,22
+45,North Dakota,18,+12,,,,18
+46,Wyoming,18,+2,,,,18
+47,Montana,12,+1,,,,12
+48,South Dakota,11,,1,,,10
 49,Alaska,9,+3,,,,9
 50,West Virginia,2,+1,,,,2
