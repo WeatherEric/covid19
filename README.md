@@ -1,20 +1,20 @@
 # covid19
-Welcome to Eric M. Weglarz' COVID-19/SARS-CoV2 Data Directory
+<b>Welcome to Eric M. Weglarz' COVID-19/SARS-CoV2 Data Directory</b></br>
 
-ABOUT:
-This repository houses CSV files of total COVID-19 cases in the continental United States, broken down by state and county.
-Data is meticulously aggregated from multiple sources under the umbrella COVID-19 Unified Data Assimilation System (UDAS).
-County data is currently included for New England states that CURRENTLY provide this data. 
-Don't see your state's county data? This will be expanded (as found) in the coming day or two.
+<b>ABOUT:</b></br>
+This repository houses CSV files of total COVID-19 cases in the continental United States, broken down by state and county.</br>
+Data is meticulously aggregated from multiple sources under the umbrella COVID-19 Unified Data Assimilation System (UDAS).</br>
+County data is currently included for New England states that CURRENTLY provide this data.</br>
+Don't see your state's county data? This will be expanded (as found) in the coming day or two.</br>
 
-UPDATE FREQUENCY:
-Latest State and County CSV Files: Every 30 minutes, starting from 00:00 Greenwich Mean Time (GMT)
-Daily State and County CSV File: Executed daily at 23:55 Greenwich Mean Time (GMT)
+<b>UPDATE FREQUENCY:</b></br>
+<b>Latest State and County CSV Files:</b> Every 30 minutes, starting from 00:00 Greenwich Mean Time (GMT)</br>
+<b>Daily State and County CSV File:</b> Executed daily at 23:55 Greenwich Mean Time (GMT)</br>
 
-SPECIAL THANKS:
-Worldometer: https://www.worldometers.info/coronavirus/
-LiveScience: https://www.livescience.com/coronavirus-updates-united-states.html
-Individual State, & Federal agencies
+<b>SPECIAL THANKS:</b></br>
+<b>Worldometer:</b> https://www.worldometers.info/coronavirus/</br>
+<b>LiveScience:</b> https://www.livescience.com/coronavirus-updates-united-states.html</br>
+Individual State, & Federal agencies</br>
 
-QUESTIONS, COMMENTS, OR SUGGESTIONS:
+<b>QUESTIONS, COMMENTS, OR SUGGESTIONS:</b></br>
 E-mail Meteorologist Eric M. Weglarz: eric dot weglarz at heart dot com
