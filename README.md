@@ -3,7 +3,7 @@
 
 <b>ABOUT:</b></br>
 This repository houses CSV files of total COVID-19 cases in the continental United States, broken down by state and county.</br>
-Data is meticulously aggregated from multiple sources in the COVID-19 Unified Data Assimilation System (UDAS), run at WMUR-TV in Manchester, New Hampshire.</br>
+Data is meticulously aggregated from multiple sources in the COVID-19 Unified Data Assimilation System (UDAS).</br>
 County data is currently included for New England states that CURRENTLY provide this data.</br>
 Don't see your state's county data? This will be expanded (as found) in the coming day or two.</br>
 
