@@ -1,6 +1,6 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases
-New York,"8,305","+2,938",42,+8,,"8,263"
-Washington,"1,378",+2,74,,102,"1,202"
+New York,"8,310","+2,943",42,+8,,"8,268"
+Washington,"1,415",+39,75,+1,102,"1,238"
 California,"1,172",+163,21,+2,6,"1,145"
 New Jersey,890,+148,11,+2,,879
 Illinois,585,+163,5,+1,2,578
@@ -9,7 +9,7 @@ Florida,520,+103,11,+2,,509
 Louisiana,479,+87,11,+1,,468
 Georgia,420,+133,13,+3,,407
 Massachusetts,413,+85,1,+1,1,411
-Texas,366,+82,6,+1,4,356
+Texas,381,+97,6,+1,4,371
 Pennsylvania,303,+96,1,,,302
 Colorado,277,,4,,,273
 Tennessee,233,+79,,,,233
@@ -18,21 +18,21 @@ Connecticut,194,+35,3,+1,,191
 Ohio,173,+54,2,+2,,171
 North Carolina,172,+48,,,,172
 Maryland,149,+42,1,,4,144
-South Carolina,125,+44,1,+-2,,124
-Virginia,121,+22,2,,1,118
+South Carolina,126,+45,1,+-2,,125
+Virginia,122,+23,2,,1,119
 Minnesota,115,+24,,,,115
 Oregon,114,+26,3,,,111
 Nevada,114,+19,1,,,113
 Utah,112,+32,,,,112
 Arkansas,96,+34,,,,96
-Indiana,86,+26,2,,,84
+Indiana,86,+26,3,+1,,83
 Alabama,85,+7,,,,85
 Mississippi,80,+29,1,,,79
 Arizona,78,+33,,,1,77
 District of Columbia,71,+31,3,,,68
+Missouri,58,+27,2,+1,,56
 Maine,56,+4,,,,56
 Rhode Island,54,+10,,,,54
-Missouri,53,+22,2,+1,,51
 Oklahoma,49,+3,1,,1,47
 Kentucky,47,+10,2,,2,43
 Kansas,46,+10,1,,,45
@@ -43,8 +43,8 @@ Delaware,38,+7,,,,38
 Nebraska,37,+8,,,,37
 Vermont,29,+7,2,+2,,27
 Hawaii,26,+4,,,,26
+North Dakota,26,+8,,,,26
 Idaho,23,,,,,23
-North Dakota,20,+2,,,,20
 Wyoming,19,+1,,,,19
 Montana,16,+4,,,,16
 South Dakota,14,+3,1,,,13
