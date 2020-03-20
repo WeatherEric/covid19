@@ -1,52 +1,52 @@
 ,State,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases
-0,New York,"5,367","+2,329",34,+14,1,"5,332"
-1,Washington,"1,376",+189,74,+7,89,"1,213"
-2,California,"1,009",+161,19,+3,6,984
-3,New Jersey,742,+315,9,+4,,733
-4,Illinois,422,+134,4,+3,2,416
-5,Florida,417,+89,9,+1,,408
-6,Louisiana,392,+112,10,+3,,382
-7,Michigan,336,+217,3,+2,,333
-8,Massachusetts,328,+72,,,1,327
-9,Georgia,287,+90,10,+7,,277
-10,Texas,284,+87,5,+2,,279
-11,Colorado,278,+57,4,+2,,274
-12,Pennsylvania,207,+52,1,,,206
-13,Connecticut,159,+63,2,+1,,157
-14,Wisconsin,159,+48,,,1,158
-15,Tennessee,154,+54,,,,154
-16,North Carolina,124,+31,,,,124
-17,Ohio,119,+30,,,,119
-18,Maryland,107,+22,1,+1,4,102
-19,Virginia,99,+20,2,,1,96
-20,Nevada,95,+40,1,,,94
-21,Minnesota,91,+13,,,,91
-22,Oregon,88,+13,3,,,85
-23,South Carolina,81,+21,3,,,78
-24,Utah,80,+17,,,,80
-25,Alabama,78,+26,,,,78
-26,Arkansas,62,+29,,,,62
-27,Indiana,60,+21,2,,,58
-28,Maine,52,+9,,,,52
-29,Mississippi,51,+15,1,+1,,50
-30,Iowa,50,+12,,,,50
-31,Oklahoma,46,+15,1,+1,1,44
-32,Arizona,45,+18,,,1,44
-33,New Hampshire,44,+5,,,,44
-34,Rhode Island,44,+11,,,,44
-35,District of Columbia,40,+9,3,+3,,37
-36,Kentucky,37,+2,2,+1,2,33
-37,Kansas,36,+13,1,,,35
-38,New Mexico,35,+7,,,,35
-39,Missouri,31,+11,1,,,30
-40,Delaware,31,+5,,,,31
-41,Nebraska,29,+5,,,,29
-42,Idaho,23,+14,,,,23
-43,Hawaii,22,+6,,,,22
-44,Vermont,22,+3,,,,22
-45,North Dakota,18,+12,,,,18
-46,Wyoming,18,+2,,,,18
-47,Montana,12,+1,,,,12
+0,New York,"5,367",,34,,1,"5,332"
+1,Washington,"1,376",,74,,89,"1,213"
+2,California,"1,011",+2,19,,6,986
+3,New Jersey,742,,9,,,733
+4,Florida,432,+15,9,,,423
+5,Illinois,422,,4,,2,416
+6,Louisiana,392,,10,,,382
+7,Michigan,336,,3,,,333
+8,Massachusetts,328,,,,1,327
+9,Texas,294,+10,5,,,289
+10,Georgia,287,,10,,,277
+11,Colorado,278,,4,,,274
+12,Pennsylvania,207,,1,,,206
+13,Connecticut,159,,2,,,157
+14,Wisconsin,159,,,,1,158
+15,Tennessee,154,,,,,154
+16,North Carolina,128,+4,,,,128
+17,Ohio,119,,,,,119
+18,Maryland,107,,1,,4,102
+19,Virginia,102,+3,2,,1,99
+20,Nevada,95,,1,,,94
+21,Minnesota,91,,,,,91
+22,Oregon,88,,3,,,85
+23,South Carolina,81,,3,,,78
+24,Utah,80,,,,,80
+25,Alabama,78,,,,,78
+26,Arkansas,62,,,,,62
+27,Indiana,60,,2,,,58
+28,Maine,52,,,,,52
+29,Mississippi,51,,1,,,50
+30,Iowa,50,,,,,50
+31,Oklahoma,46,,1,,1,44
+32,Arizona,45,,,,1,44
+33,New Hampshire,44,,,,,44
+34,Rhode Island,44,,,,,44
+35,District of Columbia,40,,3,,,37
+36,Missouri,39,+8,1,,,38
+37,Kentucky,37,,2,,2,33
+38,Kansas,36,,1,,,35
+39,New Mexico,35,,,,,35
+40,Delaware,31,,,,,31
+41,Nebraska,29,,,,,29
+42,Idaho,23,,,,,23
+43,Vermont,22,,2,+2,,20
+44,Hawaii,22,,,,,22
+45,North Dakota,18,,,,,18
+46,Wyoming,18,,,,,18
+47,Montana,12,,,,,12
 48,South Dakota,11,,1,,,10
-49,Alaska,9,+3,,,,9
-50,West Virginia,2,+1,,,,2
+49,Alaska,9,,,,,9
+50,West Virginia,2,,,,,2
