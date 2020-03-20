@@ -3,9 +3,9 @@
 1,Washington,"1,377",+1,74,,102,"1,201"
 2,California,"1,060",+51,19,,6,"1,035"
 3,New Jersey,742,,9,,,733
-4,Florida,432,+15,9,,,423
-5,Illinois,423,+1,4,,2,417
-6,Louisiana,392,,11,+1,,381
+4,Louisiana,479,+87,11,+1,,468
+5,Florida,432,+15,9,,,423
+6,Illinois,423,+1,4,,2,417
 7,Michigan,336,,3,,,333
 8,Massachusetts,328,,,,1,327
 9,Texas,326,+42,5,,4,317
@@ -16,19 +16,19 @@
 14,Connecticut,159,,3,+1,,156
 15,Tennessee,155,+1,,,,155
 16,Maryland,148,+41,1,,4,143
-17,North Carolina,142,+18,,,,142
+17,North Carolina,141,+17,,,,141
 18,Ohio,120,+1,1,+1,,119
 19,Virginia,104,+5,2,,1,101
 20,Nevada,95,,1,,,94
 21,Minnesota,91,,,,,91
 22,Oregon,88,,3,,,85
 23,South Carolina,81,,3,,,78
-24,Indiana,79,+19,2,,,77
-25,Utah,79,,,,,79
-26,Alabama,78,,,,,78
-27,District of Columbia,71,+31,3,,,68
-28,Arkansas,62,,,,,62
-29,Mississippi,56,+5,1,,,55
+24,Mississippi,80,+29,1,,,79
+25,Indiana,79,+19,2,,,77
+26,Utah,79,,,,,79
+27,Alabama,78,,,,,78
+28,District of Columbia,71,+31,3,,,68
+29,Arkansas,62,,,,,62
 30,Arizona,53,+8,,,1,52
 31,Maine,52,,,,,52
 32,Kentucky,47,+10,2,,2,43
