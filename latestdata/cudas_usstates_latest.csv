@@ -1,14 +1,14 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases
-New York,"7,989","+2,622",39,+5,,"7,950"
+New York,"8,299","+2,932",42,+8,,"8,257"
 Washington,"1,378",+2,74,,102,"1,202"
 California,"1,095",+86,21,+2,6,"1,068"
 New Jersey,890,+148,11,+2,,879
 Florida,520,+103,11,+2,,509
 Louisiana,479,+87,11,+1,,468
+Michigan,453,+117,3,,,450
 Illinois,423,+1,4,,2,417
 Georgia,420,+133,13,+3,,407
-Michigan,412,+76,3,,,409
-Texas,363,+79,5,,4,354
+Texas,364,+80,5,,4,355
 Massachusetts,328,,,,1,327
 Pennsylvania,281,+74,1,,,280
 Colorado,277,,4,,,273
@@ -21,6 +21,7 @@ Maryland,149,+42,1,,4,144
 Virginia,121,+22,2,,1,118
 Minnesota,115,+24,,,,115
 Nevada,96,+1,1,,,95
+Arkansas,96,+34,,,,96
 Oregon,88,,3,,,85
 Indiana,85,+25,2,,,83
 Alabama,83,+5,,,,83
@@ -29,7 +30,6 @@ Mississippi,80,+29,1,,,79
 Arizona,78,+33,,,1,77
 Utah,78,,,,,78
 District of Columbia,71,+31,3,,,68
-Arkansas,65,+3,,,,65
 Maine,56,+4,,,,56
 Rhode Island,54,+10,,,,54
 Missouri,53,+22,1,,,52
@@ -39,7 +39,7 @@ Kansas,46,+10,1,,,45
 Iowa,45,,,,,45
 New Hampshire,44,,,,,44
 Delaware,38,+7,,,,38
-New Mexico,35,,,,,35
+New Mexico,38,+3,,,,38
 Nebraska,33,+4,,,,33
 Vermont,29,+7,2,+2,,27
 Hawaii,26,+4,,,,26
