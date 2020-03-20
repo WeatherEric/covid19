@@ -1,24 +1,24 @@
 ,State,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases
-0,New York,"5,706",+339,38,+4,1,"5,667"
+0,New York,"5,711",+344,38,+4,1,"5,672"
 1,Washington,"1,376",,74,,102,"1,200"
-2,California,"1,021",+12,19,,6,996
+2,California,"1,046",+37,19,,6,"1,021"
 3,New Jersey,742,,9,,,733
 4,Florida,432,+15,9,,,423
 5,Illinois,422,,4,,2,416
 6,Louisiana,392,,10,,,382
 7,Michigan,336,,3,,,333
 8,Massachusetts,328,,,,1,327
-9,Texas,310,+26,5,,,305
+9,Texas,311,+27,5,,,306
 10,Georgia,287,,10,,,277
 11,Colorado,278,,4,,,274
 12,Pennsylvania,207,,1,,,206
-13,Wisconsin,159,,4,+4,1,154
+13,Wisconsin,160,+1,4,+4,1,155
 14,Connecticut,159,,3,+1,,156
 15,Tennessee,154,,,,,154
-16,North Carolina,137,+13,,,,137
-17,Ohio,119,,,,,119
+16,North Carolina,138,+14,,,,138
+17,Ohio,119,,1,+1,,118
 18,Maryland,107,,1,,4,102
-19,Virginia,104,+5,2,,1,101
+19,Virginia,105,+6,2,,1,102
 20,Nevada,95,,1,,,94
 21,Minnesota,91,,,,,91
 22,Oregon,88,,3,,,85
