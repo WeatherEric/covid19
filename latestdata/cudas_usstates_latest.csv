@@ -3,31 +3,31 @@ New York,"11,645","+3,247",56,+10,,"11,589"
 Washington,"1,524",,83,,124,"1,317"
 New Jersey,"1,327",+437,16,+5,,"1,311"
 California,"1,274",+67,24,+1,6,"1,244"
+Michigan,787,+235,5,+2,,782
+Illinois,753,+168,6,+1,2,745
 Florida,659,+96,12,+1,,647
 Louisiana,585,+48,16,+2,,569
-Illinois,585,,5,,2,578
-Michigan,554,+2,4,+1,,550
+Massachusetts,525,+112,1,,1,523
 Georgia,507,+22,14,,,493
 Texas,473,+79,5,,4,464
-Massachusetts,413,,1,,1,411
 Pennsylvania,391,+88,2,+1,,389
+Tennessee,371,+138,1,+1,,370
 Colorado,363,,4,,,359
-Tennessee,300,+67,1,+1,,299
+Wisconsin,281,+71,4,+1,1,276
 Ohio,247,+74,3,+1,,244
 North Carolina,246,+70,,,,246
-Wisconsin,220,+10,4,+1,1,215
 Connecticut,194,,4,,,190
 Maryland,190,+41,2,+1,4,184
+South Carolina,173,+47,3,+2,,170
 Nevada,161,+52,2,,,159
 Virginia,152,+29,2,,1,149
 Mississippi,141,+61,1,,,140
 Minnesota,138,+23,1,+1,24,113
+Oregon,137,+23,4,+1,,133
+Utah,136,+24,,,,136
 Indiana,129,+43,3,,,126
-South Carolina,126,,3,+2,,123
 Alabama,125,+19,,,,125
 Arkansas,118,+22,,,,118
-Oregon,114,,4,+1,,110
-Utah,112,,,,,112
 Arizona,108,+30,1,+1,1,106
 District of Columbia,77,+6,3,,,74
 Missouri,74,+9,3,+1,,71
@@ -35,10 +35,10 @@ Maine,70,+14,,,,70
 Iowa,68,+23,,,,68
 Kentucky,64,+16,2,,2,60
 Kansas,57,+8,1,,,56
+New Mexico,57,+14,,,,57
 New Hampshire,56,,,,,56
 Rhode Island,54,,,,,54
 Oklahoma,53,+4,1,,1,51
-New Mexico,43,,,,,43
 Delaware,40,+2,,,,40
 Nebraska,38,+1,,,,38
 Hawaii,37,+11,,,,37
@@ -49,4 +49,4 @@ Wyoming,23,+4,,,,23
 Montana,21,+3,,,,21
 South Dakota,14,,1,,,13
 Alaska,14,+2,,,,14
-West Virginia,8,+1,,,,8
+West Virginia,11,+4,,,,11
