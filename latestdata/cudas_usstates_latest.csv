@@ -1,5 +1,5 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases
-New York,"8,403",+5,46,,,"8,357"
+New York,"8,515",+117,60,+14,,"8,455"
 Washington,"1,524",,83,,124,"1,317"
 California,"1,254",+47,24,+1,6,"1,224"
 New Jersey,890,,11,,,879
@@ -12,7 +12,7 @@ Texas,429,+35,5,,4,420
 Massachusetts,413,,1,,1,411
 Colorado,363,,4,,,359
 Pennsylvania,311,+8,1,,,310
-Tennessee,263,+30,1,+1,,262
+Tennessee,265,+32,1,+1,,264
 Wisconsin,219,+9,3,,1,215
 Connecticut,194,,4,,,190
 North Carolina,189,+13,,,,189
@@ -22,7 +22,7 @@ Maryland,149,,2,+1,4,143
 South Carolina,126,,3,+2,,123
 Virginia,125,+2,2,,1,122
 Minnesota,115,,,,,115
-Oregon,114,,3,,,111
+Oregon,114,,4,+1,,110
 Utah,112,,,,,112
 Alabama,108,+2,,,,108
 Arkansas,100,+4,,,,100
