@@ -1,5 +1,5 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases
-New York,"8,398",,46,,,"8,352"
+New York,"8,400",+2,46,,,"8,354"
 Washington,"1,524",,83,,124,"1,317"
 California,"1,207",,23,,6,"1,178"
 New Jersey,890,,11,,,879
@@ -11,15 +11,15 @@ Georgia,485,,14,,,471
 Massachusetts,413,,1,,1,411
 Texas,394,,5,,4,385
 Colorado,363,,4,,,359
-Pennsylvania,303,,1,,,302
-Tennessee,233,,,,,233
+Pennsylvania,311,+8,1,,,310
+Tennessee,233,,1,+1,,232
 Wisconsin,210,,3,,1,206
 Connecticut,194,,4,,,190
 North Carolina,176,,,,,176
 Ohio,173,,2,,,171
 Maryland,149,,1,,4,144
 South Carolina,126,,1,,,125
-Virginia,123,,2,,1,120
+Virginia,124,+1,2,,1,121
 Minnesota,115,,,,,115
 Oregon,114,,3,,,111
 Utah,112,,,,,112
@@ -28,25 +28,25 @@ Alabama,106,,,,,106
 Arkansas,96,,,,,96
 Indiana,86,,3,,,83
 Mississippi,80,,1,,,79
-Arizona,78,,,,1,77
+Arizona,79,+1,,,1,78
 District of Columbia,71,,3,,,68
 Missouri,65,,2,,,63
+Kentucky,59,+11,2,,2,55
 Maine,56,,,,,56
 New Hampshire,56,,,,,56
 Rhode Island,54,,,,,54
 Kansas,49,,1,,,48
 Oklahoma,49,,1,,1,47
-Kentucky,48,,2,,2,44
 Iowa,45,,,,,45
 New Mexico,43,,,,,43
 Delaware,38,,,,,38
+Hawaii,37,+11,,,,37
 Nebraska,37,,,,,37
 Idaho,31,,,,,31
 Vermont,29,,2,,,27
-Hawaii,26,,,,,26
 North Dakota,26,,,,,26
+Montana,20,+2,,,,20
 Wyoming,19,,,,,19
-Montana,18,,,,,18
 South Dakota,14,,1,,,13
 Alaska,12,,,,,12
 West Virginia,7,,,,,7
