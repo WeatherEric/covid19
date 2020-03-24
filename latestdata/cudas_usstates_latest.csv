@@ -1,7 +1,7 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases
 New York,"25,665","+4,790",210,+53,"25,347"
 New Jersey,"3,675",+831,44,+17,"3,631"
-California,"2,266",+133,43,+3,"2,217"
+California,"2,494",+361,49,+9,"2,439"
 Washington,"2,221",,110,,"1,987"
 Michigan,"1,791",+463,24,+9,"1,767"
 Illinois,"1,535",+250,16,+4,"1,517"
@@ -11,12 +11,12 @@ Massachusetts,"1,159",+382,11,+2,"1,147"
 Georgia,"1,026",+223,32,+6,994
 Pennsylvania,851,+207,7,+1,844
 Texas,826,+20,9,,806
-Colorado,720,,7,,713
+Colorado,720,,9,+2,711
 Tennessee,667,+52,2,,665
+Connecticut,618,+203,12,+2,606
 Ohio,564,+122,8,+2,556
 North Carolina,459,+49,,,459
 Wisconsin,457,+41,5,,451
-Connecticut,415,,10,,405
 Indiana,365,+106,12,+5,353
 Maryland,349,+61,4,+1,341
 Arizona,326,+92,5,+3,318
@@ -37,10 +37,10 @@ Rhode Island,124,+18,,,124
 Maine,118,+11,,,115
 Oklahoma,106,+25,3,+1,102
 New Hampshire,101,,1,,100
+Kansas,98,+16,2,,96
 Vermont,95,+20,7,+2,88
 Delaware,91,+23,,,91
 New Mexico,83,,,,83
-Kansas,82,,2,,80
 Idaho,81,+34,,,81
 Hawaii,77,,1,+1,76
 Nebraska,61,+11,,,61
