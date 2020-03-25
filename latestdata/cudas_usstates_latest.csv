@@ -22,7 +22,7 @@ Maryland,423,+74,4,,415
 Arizona,401,+75,6,+1,392
 Virginia,391,+101,9,+2,380
 Mississippi,377,+57,2,+1,375
-South Carolina,342,,5,,337
+South Carolina,342,,7,+2,335
 Nevada,321,+43,6,+2,315
 Utah,298,,1,,297
 Minnesota,287,+25,1,,198
@@ -33,7 +33,7 @@ Oregon,209,,5,,204
 District Of Columbia,183,,2,,181
 Oklahoma,164,+58,5,+2,158
 Kentucky,157,,4,,151
-Iowa,145,+21,,,145
+Iowa,145,+21,1,+1,144
 Maine,142,+24,,,139
 Rhode Island,124,,,,124
 New Hampshire,108,,1,,107
@@ -46,7 +46,7 @@ Hawaii,90,,1,,89
 Nebraska,61,,,,61
 Montana,51,+5,,,51
 Alaska,42,+6,,,42
+South Dakota,41,+11,1,,27
 Wyoming,41,+11,,,41
-North Dakota,39,+5,,,39
+North Dakota,39,+5,,,36
 West Virginia,39,+19,,,39
-South Dakota,30,,1,,21
