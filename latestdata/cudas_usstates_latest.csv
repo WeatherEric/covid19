@@ -1,21 +1,21 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases
 New York,"25,665","+4,790",210,+53,"25,347"
 New Jersey,"3,675",+831,44,+17,"3,631"
-California,"2,494",+361,50,+10,"2,438"
+California,"2,566",+433,51,+11,"2,507"
 Washington,"2,221",,110,,"1,987"
 Michigan,"1,791",+463,24,+9,"1,767"
 Illinois,"1,535",+250,16,+4,"1,517"
 Florida,"1,467",+240,20,+2,"1,447"
 Louisiana,"1,388",+216,46,+11,"1,342"
 Massachusetts,"1,159",+382,11,+2,"1,147"
-Georgia,"1,026",+223,32,+6,994
+Georgia,"1,097",+294,38,+12,"1,059"
 Colorado,912,+192,11,+4,901
 Pennsylvania,851,+207,7,+1,844
 Texas,826,+20,9,,806
-Tennessee,667,+52,2,,665
+Tennessee,773,+158,2,,771
 Connecticut,618,+203,12,+2,606
 Ohio,564,+122,8,+2,556
-North Carolina,459,+49,,,459
+North Carolina,498,+88,,,498
 Wisconsin,457,+41,5,,451
 Indiana,365,+106,12,+5,353
 Maryland,349,+61,4,+1,341
@@ -23,10 +23,10 @@ South Carolina,342,+43,5,,337
 Arizona,326,+92,5,+3,318
 Mississippi,320,+71,1,,319
 Utah,298,+41,1,,297
-Virginia,290,+36,7,,282
+Virginia,290,+36,7,,281
 Nevada,278,+33,4,,274
 Minnesota,262,+27,1,,173
-Missouri,255,+59,5,,250
+Missouri,255,+59,5,,248
 Alabama,242,+46,,,242
 Arkansas,218,+21,,,211
 Oregon,209,+18,5,,204
@@ -36,11 +36,11 @@ Iowa,124,+19,,,124
 Rhode Island,124,+18,,,124
 Maine,118,+11,,,115
 Oklahoma,106,+25,3,+1,102
+Delaware,104,+36,,,104
 New Hampshire,101,,1,,100
 New Mexico,100,+17,,,100
 Kansas,98,+16,2,,96
 Vermont,95,+20,7,+2,88
-Delaware,91,+23,,,91
 Hawaii,90,+13,1,+1,89
 Idaho,81,+34,,,81
 Nebraska,61,+11,,,61
