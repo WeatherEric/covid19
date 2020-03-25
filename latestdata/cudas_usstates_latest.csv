@@ -1,52 +1,52 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases
-New York,"26,348","+5,473",271,+114,"25,969"
-New Jersey,"3,675",+831,44,+17,"3,631"
-California,"2,566",+433,51,+11,"2,507"
-Washington,"2,469",+248,123,+13,"2,222"
-Michigan,"1,791",+463,24,+9,"1,767"
-Illinois,"1,535",+250,16,+4,"1,517"
-Florida,"1,467",+240,20,+2,"1,447"
-Louisiana,"1,388",+216,46,+11,"1,342"
-Massachusetts,"1,159",+382,11,+2,"1,147"
-Georgia,"1,097",+294,38,+12,"1,059"
-Texas,"1,048",+242,12,+3,"1,025"
-Colorado,912,+192,11,+4,901
-Pennsylvania,851,+207,7,+1,844
-Tennessee,773,+158,2,,771
-Connecticut,618,+203,12,+2,606
-Ohio,564,+122,8,+2,556
-North Carolina,498,+88,,,498
-Wisconsin,457,+41,5,,451
-Indiana,365,+106,12,+5,353
-Maryland,349,+61,4,+1,341
-South Carolina,342,+43,5,,337
-Arizona,326,+92,5,+3,318
-Mississippi,320,+71,1,,319
-Utah,298,+41,1,,297
-Virginia,290,+36,7,,281
-Nevada,278,+33,4,,274
-Minnesota,262,+27,1,,173
-Missouri,255,+59,5,,248
-Alabama,242,+46,,,242
-Arkansas,232,+35,2,+2,220
-Oregon,209,+18,5,,204
-District of Columbia,183,+46,2,,181
-Kentucky,157,+33,4,,151
-Iowa,124,+19,,,124
-Rhode Island,124,+18,,,124
-Maine,118,+11,,,115
-New Hampshire,108,+7,1,,107
-Oklahoma,106,+25,3,+1,102
-Delaware,104,+36,,,104
-New Mexico,100,+17,,,100
-Kansas,98,+16,2,,96
-Vermont,95,+20,7,+2,88
-Hawaii,90,+13,1,+1,89
-Idaho,81,+34,,,81
-Nebraska,61,+11,,,61
-Montana,46,+1,,,46
-Alaska,36,+4,,,36
-North Dakota,34,+2,,,34
-South Dakota,30,+2,1,,21
-Wyoming,30,+4,,,30
-West Virginia,20,+4,,,20
+New York,"26,348",,271,,"25,969"
+New Jersey,"3,675",,44,,"3,631"
+California,"2,566",,51,,"2,507"
+Washington,"2,469",,123,,"2,222"
+Michigan,"1,791",,24,,"1,767"
+Illinois,"1,535",,16,,"1,517"
+Florida,"1,467",,20,,"1,447"
+Louisiana,"1,388",,46,,"1,342"
+Massachusetts,"1,159",,11,,"1,147"
+Georgia,"1,097",,38,,"1,059"
+Texas,"1,048",,12,,"1,025"
+Colorado,912,,11,,901
+Pennsylvania,851,,7,,844
+Tennessee,773,,2,,771
+Connecticut,618,,12,,606
+Ohio,564,,8,,556
+North Carolina,498,,,,498
+Wisconsin,457,,5,,451
+Indiana,365,,12,,353
+Maryland,349,,4,,341
+South Carolina,342,,5,,337
+Arizona,326,,5,,318
+Mississippi,320,,1,,319
+Utah,298,,1,,297
+Virginia,290,,7,,281
+Nevada,278,,4,,274
+Missouri,270,,8,,260
+Minnesota,262,,1,,173
+Alabama,242,,,,242
+Arkansas,232,,2,,220
+Oregon,209,,5,,204
+District of Columbia,183,,2,,181
+Kentucky,157,,4,,151
+Iowa,124,,,,124
+Rhode Island,124,,,,124
+Maine,118,,,,115
+New Hampshire,108,,1,,107
+Oklahoma,106,,3,,102
+Delaware,104,,,,104
+New Mexico,100,,,,100
+Kansas,98,,2,,96
+Vermont,95,,7,,88
+Hawaii,90,,1,,89
+Idaho,81,,,,81
+Nebraska,61,,,,61
+Montana,46,,,,46
+Alaska,36,,,,36
+North Dakota,34,,,,34
+South Dakota,30,,1,,21
+Wyoming,30,,,,30
+West Virginia,20,,,,20
