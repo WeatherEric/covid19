@@ -1,12 +1,12 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases
 New York,"44,810","+5,833",519,+53,"42,246"
 New Jersey,"8,825","+1,949",108,+27,"8,717"
-California,"4,671",+656,93,+11,"4,560"
+California,"4,683",+668,94,+12,"4,571"
 Washington,"3,700",+493,175,+28,"3,401"
 Michigan,"3,657",+801,92,+32,"3,560"
 Massachusetts,"3,240",+823,35,+10,"3,204"
+Florida,"3,198",+714,34,+5,"3,164"
 Illinois,"3,026",+488,34,+8,"2,990"
-Florida,"2,900",+416,34,+5,"2,866"
 Louisiana,"2,746",+441,119,+36,"2,627"
 Pennsylvania,"2,218",+531,22,+6,"2,196"
 Georgia,"2,130",+487,65,+9,"2,065"
@@ -21,8 +21,8 @@ North Carolina,836,+7,2,,834
 Maryland,774,+194,5,+1,744
 Missouri,670,+168,9,+1,659
 Arizona,665,+157,13,+5,649
+Alabama,627,+96,3,+2,624
 Virginia,604,+144,14,+1,588
-Alabama,587,+56,3,+2,584
 Mississippi,579,+94,8,+3,571
 South Carolina,539,+83,13,+4,526
 Nevada,535,+115,10,,525
@@ -34,19 +34,19 @@ Oklahoma,322,+72,8,+1,313
 Kentucky,302,+54,5,,295
 District Of Columbia,267,,3,,264
 Iowa,235,+55,3,+2,214
+Idaho,230,+41,3,,227
 Kansas,202,+34,4,+1,198
 New Mexico,191,+55,1,,190
-Idaho,189,,3,,186
+New Hampshire,187,+29,2,+1,185
 Vermont,184,+26,10,+1,174
 Maine,168,+13,,,152
 Delaware,165,+35,2,+1,159
 Rhode Island,165,,,,165
-New Hampshire,158,,1,,157
 Hawaii,120,+14,,,120
 Montana,108,+37,1,+1,107
 Nebraska,85,+17,,,85
 West Virginia,76,,1,+1,75
-Wyoming,70,+14,,,70
+Wyoming,73,+17,,,73
 Alaska,69,+10,1,+1,68
 North Dakota,68,+16,1,+1,52
 South Dakota,58,+12,1,,36
