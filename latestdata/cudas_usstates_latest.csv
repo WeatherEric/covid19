@@ -1,5 +1,5 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases
-New York,"44,810","+5,833",519,+53,"42,246"
+New York,"45,934","+6,957",604,+138,"43,285"
 New Jersey,"8,825","+1,949",108,+27,"8,717"
 California,"4,791",+776,94,+12,"4,679"
 Washington,"3,700",+493,175,+28,"3,401"
@@ -31,8 +31,8 @@ Oregon,414,+98,11,,403
 Minnesota,398,+52,4,+2,260
 Arkansas,381,+46,3,+1,359
 Oklahoma,322,+72,8,+1,313
+District Of Columbia,304,+37,4,+1,249
 Kentucky,302,+54,8,+3,292
-District Of Columbia,267,,3,,264
 Iowa,235,+55,3,+2,214
 Idaho,230,+41,3,,227
 Rhode Island,203,+38,,,203
