@@ -1,52 +1,52 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases
-New York,"46,262","+7,285",606,+140,"43,611"
-New Jersey,"8,825","+1,949",108,+27,"8,717"
-California,"4,791",+776,94,+12,"4,679"
-Washington,"3,700",+493,175,+28,"3,401"
-Michigan,"3,657",+801,92,+32,"3,560"
-Massachusetts,"3,240",+823,35,+10,"3,204"
-Florida,"3,198",+714,46,+17,"3,152"
-Illinois,"3,026",+488,34,+8,"2,990"
-Louisiana,"2,746",+441,119,+36,"2,627"
-Pennsylvania,"2,218",+531,22,+6,"2,196"
-Georgia,"2,198",+555,65,+9,"2,133"
-Texas,"1,950",+362,26,+6,"1,913"
-Colorado,"1,734",+304,31,+7,"1,703"
-Connecticut,"1,291",+279,27,+6,"1,264"
-Tennessee,"1,203",+105,6,+3,"1,197"
-Ohio,"1,137",+270,19,+4,"1,118"
-Indiana,981,+336,24,+7,957
-North Carolina,880,+51,3,+1,877
-Wisconsin,842,+135,14,+4,826
-Maryland,774,+194,5,+1,744
-Missouri,670,+168,9,+1,659
-Arizona,665,+157,13,+5,649
-Alabama,627,+96,3,+2,624
-Virginia,604,+144,14,+1,588
-Mississippi,579,+94,8,+3,571
-South Carolina,539,+83,13,+4,526
-Nevada,535,+115,10,,525
-Utah,480,+78,2,+1,478
-Oregon,414,+98,11,,403
-Minnesota,398,+52,4,+2,260
-Arkansas,381,+46,3,+1,359
-Oklahoma,322,+72,8,+1,313
-District Of Columbia,304,+37,4,+1,249
-Kentucky,302,+54,8,+3,292
-Iowa,235,+55,3,+2,214
-Idaho,230,+41,3,,227
-Rhode Island,203,+38,,,203
-Kansas,202,+34,4,+1,198
-New Mexico,191,+55,1,,190
-New Hampshire,187,+29,2,+1,185
-Vermont,184,+26,10,+1,174
-Maine,168,+13,,,152
-Delaware,165,+35,2,+1,159
-Montana,121,+50,1,+1,120
-Hawaii,120,+14,,,120
-West Virginia,96,+20,1,+1,95
-Nebraska,85,+17,,,85
-Wyoming,73,+17,,,73
-Alaska,69,+10,1,+1,68
-North Dakota,68,+16,1,+1,52
-South Dakota,58,+12,1,,36
+New York,"46,262",,606,,"43,611"
+New Jersey,"8,825",,108,,"8,717"
+California,"4,791",,94,,"4,679"
+Washington,"3,700",,175,,"3,401"
+Michigan,"3,657",,92,,"3,560"
+Massachusetts,"3,240",,35,,"3,204"
+Florida,"3,198",,46,,"3,152"
+Illinois,"3,026",,34,,"2,990"
+Louisiana,"2,746",,119,,"2,627"
+Pennsylvania,"2,218",,22,,"2,196"
+Georgia,"2,198",,65,,"2,133"
+Texas,"1,950",,26,,"1,913"
+Colorado,"1,734",,31,,"1,703"
+Connecticut,"1,291",,27,,"1,264"
+Tennessee,"1,203",,6,,"1,197"
+Ohio,"1,137",,19,,"1,118"
+Indiana,981,,24,,957
+North Carolina,880,,3,,877
+Wisconsin,842,,14,,826
+Maryland,774,,5,,744
+Missouri,670,,9,,659
+Arizona,665,,13,,649
+Alabama,627,,3,,624
+Virginia,604,,14,,588
+Mississippi,579,,8,,571
+South Carolina,539,,13,,526
+Nevada,535,,10,,525
+Utah,480,,2,,478
+Oregon,414,,11,,403
+Minnesota,398,,4,,260
+Arkansas,381,,3,,359
+Oklahoma,322,,8,,313
+District Of Columbia,304,,4,,249
+Kentucky,302,,8,,292
+Iowa,235,,3,,214
+Idaho,230,,3,,227
+Rhode Island,203,,,,203
+Kansas,202,,4,,198
+New Mexico,191,,1,,190
+New Hampshire,187,,2,,185
+Vermont,184,,10,,174
+Maine,168,,,,152
+Delaware,165,,2,,159
+Montana,121,,1,,120
+Hawaii,120,,,,120
+West Virginia,96,,1,,95
+Alaska,85,+16,1,,84
+Nebraska,85,,,,85
+Wyoming,73,,,,73
+North Dakota,68,,1,,52
+South Dakota,58,,1,,36
