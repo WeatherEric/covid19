@@ -1,5 +1,5 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases
-New York,"46,262",,606,,"43,611"
+New York,"52,318","+6,056",728,+122,"48,864"
 New Jersey,"8,825",,108,,"8,717"
 California,"4,905",+114,102,+8,"4,782"
 Florida,"3,763",+565,54,+8,"3,709"
@@ -8,7 +8,7 @@ Michigan,"3,657",,92,,"3,560"
 Massachusetts,"3,240",,35,,"3,204"
 Illinois,"3,026",,34,,"2,990"
 Louisiana,"2,746",,119,,"2,627"
-Pennsylvania,"2,218",,22,,"2,196"
+Pennsylvania,"2,571",+353,34,+12,"2,537"
 Georgia,"2,198",,65,,"2,133"
 Texas,"1,950",,26,,"1,913"
 Colorado,"1,734",,31,,"1,703"
@@ -33,7 +33,7 @@ Arkansas,381,,3,,359
 Oklahoma,377,+55,15,+7,361
 District Of Columbia,304,,4,,249
 Kentucky,302,,8,,292
-Iowa,235,,3,,214
+Iowa,298,+63,3,,277
 Idaho,230,,3,,227
 Maine,211,+43,1,,194
 Rhode Island,203,,,,203
