@@ -3,7 +3,7 @@ New York,"75,983",,"1,714",,"69,294"
 New Jersey,"18,696",,267,,"18,429"
 California,"8,588",+84,183,+3,"7,555"
 Michigan,"7,615",,259,,"7,351"
-Florida,"6,741",,85,,"6,656"
+Florida,"6,955",+214,87,+2,"6,868"
 Massachusetts,"6,620",,89,,"6,521"
 Illinois,"5,994",,99,,"5,893"
 Washington,"5,482",,225,,"4,767"
@@ -28,13 +28,13 @@ Mississippi,"1,073",+136,22,+2,"1,051"
 Alabama,"1,013",+20,26,+3,987
 Utah,887,,5,,882
 Oregon,690,,18,,672
-Minnesota,629,,12,,483
+Minnesota,689,+60,17,+5,384
 Kentucky,591,,17,,510
+District Of Columbia,586,+91,11,+2,433
 Arkansas,566,+43,8,,516
 Oklahoma,565,,23,,541
 Idaho,525,,9,,516
 Iowa,497,,7,,472
-District Of Columbia,495,,9,,435
 Rhode Island,488,,8,,480
 Kansas,428,,9,,419
 New Hampshire,367,,3,,308
@@ -47,6 +47,6 @@ Montana,208,+10,5,,203
 Nebraska,177,,3,,174
 West Virginia,162,,1,,161
 Alaska,133,+14,3,,130
+Wyoming,130,+10,,,104
 North Dakota,122,,3,,94
-Wyoming,120,,,,94
 South Dakota,108,,1,,73
