@@ -1,7 +1,7 @@
 State,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases
 New York,"113,704","+10,228","3,565",+347,"99,661"
-New Jersey,"29,895",,646,,"29,249"
-Michigan,"12,744",,479,,"12,260"
+New Jersey,"34,124","+4,229",846,+200,"33,278"
+Michigan,"12,744",,481,+2,"12,258"
 California,"12,639",+372,285,+10,"11,504"
 Florida,"11,111",+843,191,+21,"10,920"
 Massachusetts,"10,402",,192,,"10,200"
@@ -43,9 +43,9 @@ Maine,456,+24,10,+1,306
 Delaware,450,,14,,365
 Vermont,389,,17,,372
 Hawaii,319,,3,,258
+West Virginia,282,+45,2,,280
 Nebraska,279,,6,,273
 Montana,265,+3,6,,259
-West Virginia,237,,2,,235
 South Dakota,187,,2,,117
 Wyoming,187,+21,,,161
 North Dakota,186,+13,3,,120
